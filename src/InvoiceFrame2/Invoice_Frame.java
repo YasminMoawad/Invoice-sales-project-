@@ -1,6 +1,6 @@
 package InvoiceFrame2;
 
-public class Invoice_Frame {
+public class Invoice_Frame_main {
 
     public static void main (String[] args) {
 
